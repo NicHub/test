@@ -9,7 +9,7 @@ This repository<br/>is archived in the<br/><em>GitHub Arctic Code Vault</em>.
 </blockquote>
 </a>
 
-<table>
+<table style="border:none">
 <tr>
 <td>
 <img style="width:64px; float:right; margin-right:10px;" src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" />
