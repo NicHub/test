@@ -2,7 +2,7 @@
 
 <p>
 <img width="64" src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" />
-This repository is stored in the
+This depot will never be
 <a href="https://archiveprogram.github.com/arctic-vault/">
 GitHub Arctic Code Vault</a>
 </p>
@@ -12,3 +12,5 @@ GitHub Arctic Code Vault</a>
 <http://nichub.github.io/test/>
 
 <http://test.jeanmonod.net/>
+
+> Test
