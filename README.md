@@ -4,11 +4,21 @@
 <blockquote style="vertical-align: text-top;">
 <p>
 <img style="width:64px; float:right; margin-right:10px;" src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" />
-This repository<br/>is archived in the<br/>
-<em>GitHub Arctic Code Vault</em>.
+This repository<br/>is archived in the<br/><em>GitHub Arctic Code Vault</em>.
 </p>
 </blockquote>
 </a>
+
+<table>
+<tr>
+<td>
+<img style="width:64px; float:right; margin-right:10px;" src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" />
+</td>
+<td>
+This repository<br/>is archived in the<br/><em>GitHub Arctic Code Vault</em>.
+</td>
+</tr>
+</table>
 
 # test
 
