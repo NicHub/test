@@ -1,11 +1,14 @@
 <h1 style="letter-spacing: 1ex">STEWART PLATFORM ON ESP32</h1>
 
-<p>
-<img width="64" src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" />
-This depot will never be
 <a href="https://archiveprogram.github.com/arctic-vault/">
-GitHub Arctic Code Vault</a>
+<blockquote style="vertical-align: text-top;">
+<p>
+<img style="width:64px; float:left; margin-right:10px;" src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" />
+This repository<br/>is archived in the<br/>
+GitHub Arctic Code Vault.
 </p>
+</blockquote>
+</a>
 
 # test
 
